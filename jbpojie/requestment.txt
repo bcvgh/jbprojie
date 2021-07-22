@@ -1,0 +1,4 @@
+os
+sys
+pypiwin32
+configparser
